@@ -5,7 +5,7 @@
  *  TUIKit 中的组件在实现 UI 功能的同时，调用 IM SDK 相应的接口实现 IM 相关逻辑和数据的处理
  *  您可以在TUIKit的基础上做一些个性化拓展，即可轻松接入IM SDK
  *
- *
+ *lit for test
  */
 
 #import <UIKit/UIKit.h>
